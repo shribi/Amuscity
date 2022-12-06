@@ -15,8 +15,8 @@ WANT TO EXPERIENCE IT??
 
                   https://www.geeksforgeeks.org/how-to-setup-opengl-with-visual-studio-2019-on-windows-10/
                
--> CLick On New Project.
--> Navigate to Source Files in Right pane and having right clicked create a new Item of CPP.
+-> CLick On New Empty Project.
+-> Navigate to Source Files in Right pane and having right clicked create a new Item of CPP (Basically create a .cpp file).
 -> Copy the Amuscity Code of our repo and paste it.
 -> Set te Debug Platform to "x86" and click on Local Windows Debugger...
 -> Now, debugging starts and the code runs into a terminal showing the rules of navigation inside the application. The rules are as follows:
