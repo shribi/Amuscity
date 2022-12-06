@@ -29,7 +29,8 @@ WANT TO EXPERIENCE IT??
 
 THNAK YOU AND ENJOY USING OUR APPLICATION.............
 
-![image](https://user-images.githubusercontent.com/108994995/205993115-c208f9c7-aca0-454f-9a30-2e1ca046f99b.png)
+![image](https://user-images.githubusercontent.com/108994995/205993529-4dfb748e-7b84-48d5-bb2f-725eb9a45260.png)
+
 
 ![image](https://user-images.githubusercontent.com/108994995/205993209-701826ef-e681-4c5a-916b-cd04f5b98448.png)
 
